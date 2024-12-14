@@ -96,3 +96,15 @@ SECRET=uma-chave-secreta
 
 1. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## 📝 Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [Licença MIT](./LICENSE). para mais detalhes.
+
+## 👨‍💻 Desenvolvedor
+
+Este projeto foi desenvolvido por **Alex Pablo de Oliveira Moraes**. 
+
+Sou estudante de **Sistemas de Informação** na **UNEMAT**.
+
+Você pode me encontrar nas redes sociais ou conferir meus outros projetos no meu perfil [GitHub](https://github.com/AlexPablo-hub).
+
+Se tiver alguma dúvida ou sugestão sobre o projeto, fique à vontade para entrar em contato!
